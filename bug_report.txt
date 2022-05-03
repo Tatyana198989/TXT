@@ -1,1 +1,11 @@
-
+ Bug report
+  ID: BR-1
+  Summary : There is no sorting of drinks by name
+  Project : Application Drinkables
+  Environment : Xiaomi A2 Lite
+  Severity : Major
+  Priority : Medium
+  Status : New
+  Steps_to_reproduce : Launch the application
+  Actual_results: There is no sorting of drinks by name
+  Expected_results : Ability to sort drinks by name
