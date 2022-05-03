@@ -1,0 +1,6 @@
+
+skill1 : JSON,
+skill2 : Postman,
+skill3 : Python,
+skill4 : Git,
+skill5 : Java

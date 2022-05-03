@@ -1,0 +1,5 @@
+ 	favorite film : Titanic,
+        favorite serial : Friends,
+        favorite food : soup,
+        favorite season : summer,
+        country I wish to travel : Norway		
