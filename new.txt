@@ -1,0 +1,4 @@
+ 	FIO : Piskunova Tatyana Leonidovna,
+        Age : 32,
+        Number of home pets : 0,
+        Expected salary : 500
